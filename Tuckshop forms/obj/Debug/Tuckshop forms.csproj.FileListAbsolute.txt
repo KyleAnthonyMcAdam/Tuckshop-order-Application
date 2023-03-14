@@ -1,0 +1,35 @@
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\bin\Debug\Tuckshop forms.exe.config
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\bin\Debug\Tuckshop forms.exe
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\bin\Debug\Tuckshop forms.pdb
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\obj\Debug\Tuckshop forms.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\obj\Debug\Tuckshop forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\obj\Debug\Tuckshop_forms.AddForm.resources
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\obj\Debug\Tuckshop_forms.DeleteIForms.resources
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\obj\Debug\Tuckshop_forms.DisplayOrdersDorm.resources
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\obj\Debug\Tuckshop_forms.DisplayProductsForm.resources
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\obj\Debug\Tuckshop_forms.LoginForm.resources
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\obj\Debug\Tuckshop_forms.MainMenu.resources
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\obj\Debug\Tuckshop_forms.OrderForm.resources
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\obj\Debug\Tuckshop_forms.Properties.Resources.resources
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\obj\Debug\Tuckshop_forms.UpdateForm.resources
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\obj\Debug\Tuckshop forms.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\obj\Debug\Tuckshop forms.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\obj\Debug\Tuckshop forms.exe
+C:\Users\User\Desktop\PRG281_TuckShop_Project2\Tuckshop forms\obj\Debug\Tuckshop forms.pdb
+C:\Users\User\Downloads\PRG281_TuckShop_Project1\Tuckshop forms\bin\Debug\Tuckshop forms.exe.config
+C:\Users\User\Downloads\PRG281_TuckShop_Project1\Tuckshop forms\bin\Debug\Tuckshop forms.exe
+C:\Users\User\Downloads\PRG281_TuckShop_Project1\Tuckshop forms\bin\Debug\Tuckshop forms.pdb
+C:\Users\User\Downloads\PRG281_TuckShop_Project1\Tuckshop forms\obj\Debug\Tuckshop forms.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PRG281_TuckShop_Project1\Tuckshop forms\obj\Debug\Tuckshop_forms.AddForm.resources
+C:\Users\User\Downloads\PRG281_TuckShop_Project1\Tuckshop forms\obj\Debug\Tuckshop_forms.DeleteIForms.resources
+C:\Users\User\Downloads\PRG281_TuckShop_Project1\Tuckshop forms\obj\Debug\Tuckshop_forms.DisplayOrdersDorm.resources
+C:\Users\User\Downloads\PRG281_TuckShop_Project1\Tuckshop forms\obj\Debug\Tuckshop_forms.DisplayProductsForm.resources
+C:\Users\User\Downloads\PRG281_TuckShop_Project1\Tuckshop forms\obj\Debug\Tuckshop_forms.LoginForm.resources
+C:\Users\User\Downloads\PRG281_TuckShop_Project1\Tuckshop forms\obj\Debug\Tuckshop_forms.MainMenu.resources
+C:\Users\User\Downloads\PRG281_TuckShop_Project1\Tuckshop forms\obj\Debug\Tuckshop_forms.OrderForm.resources
+C:\Users\User\Downloads\PRG281_TuckShop_Project1\Tuckshop forms\obj\Debug\Tuckshop_forms.Properties.Resources.resources
+C:\Users\User\Downloads\PRG281_TuckShop_Project1\Tuckshop forms\obj\Debug\Tuckshop_forms.UpdateForm.resources
+C:\Users\User\Downloads\PRG281_TuckShop_Project1\Tuckshop forms\obj\Debug\Tuckshop forms.csproj.GenerateResource.cache
+C:\Users\User\Downloads\PRG281_TuckShop_Project1\Tuckshop forms\obj\Debug\Tuckshop forms.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PRG281_TuckShop_Project1\Tuckshop forms\obj\Debug\Tuckshop forms.exe
+C:\Users\User\Downloads\PRG281_TuckShop_Project1\Tuckshop forms\obj\Debug\Tuckshop forms.pdb

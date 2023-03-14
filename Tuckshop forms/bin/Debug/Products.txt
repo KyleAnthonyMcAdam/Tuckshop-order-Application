@@ -1,0 +1,10 @@
+1:Hot dog:20:100
+2:Beef Burgur:20:100
+3:Chicken Burgur:20:100
+4:VegatableBurgur:20:100
+5:Sandwhich:20:100
+6:Brownie:5:200
+7:chips:10:100
+8:Hot chocolate:15:100
+9:Coco cola:15:100
+10:Cream soda:15:100
